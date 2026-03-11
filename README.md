@@ -5,7 +5,7 @@
  <h3>Tecnologias ultilizadas</h3>
  HTML - CSS]
  <br>
- <h4>Objetivo dos projetos é alcaçar o nivel Full Satack.</h4>
+<h4> Todos esses projetos Para estudo </h4>
  <br>
  <br>
  <p>Desktop </p>
@@ -29,5 +29,5 @@
  <img src="https://raw.githubusercontent.com/ricap-p/projetos.estudo/218c172bd61b8055bca1e6f0e4ead6126d51e9af/treino.dev/we-care-phone.png"/>
  <br>
 
- <p>Esses são todos projetos de estudos </p>
+
  
